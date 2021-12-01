@@ -1,8 +1,9 @@
 # Natours-Project
 
 ### [Live Site](https://alaa-elghamry.github.io/Natours-Project/)
-
- ![Portfolio Website](https://drive.google.com/file/d/1IdMKoOTiliQL7Z3QTn7SF5-9ar_iYJV6/view?usp=sharing) 
+<!-- 
+ ![Portfolio Website](https://drive.google.com/file/d/1IdMKoOTiliQL7Z3QTn7SF5-9ar_iYJV6/view?usp=sharing)  -->
+  <img  src="img/Natours-Project.png.png">
  
 A Fancy looking Responsive website with advanced css features for a tourism company that organizes tours in nature
 created for the advanced css & sass udemy course 
